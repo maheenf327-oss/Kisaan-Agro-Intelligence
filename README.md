@@ -21,7 +21,7 @@ Kisaan is an interactive geospatial climate simulator and crop decision-support 
    python -m streamlit run NASA_Final_Project.py
    ```
 2. Test Case for Alternative Crop Recommendation:
-    **Location:** `Lahore` | **Crop:** `potato` | **Sowing Date:** `2025/09/15` | **Temp Spike:** `0.00`
+    **Location:** `Lahore` | **Crop:** `potato` | **Sowing Date:** `2025/09/30` | **Temp Spike:** `0.00`
     *(Potato fails early-season heat above 24.0°C, and the engine automatically recommends *GRAM* with exact alternative planting dates).*
 
 ### AI / Super Intelligence Disclosure
