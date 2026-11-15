@@ -1,0 +1,20 @@
+[theme]
+primaryColor = "#2ecc71"
+backgroundColor = "#03092c"
+secondaryBackgroundColor = "#0a1445"
+textColor = "#f0f4f8"
+font = "Oswald"
+headingFont = "Playfair Display"
+
+[[theme.fontFaces]]
+font = "Oswald"
+url = "https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap"
+weight = 400
+
+[[theme.fontFaces]]
+font = "Playfair Display"
+url = "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+weight = 700
+
+
+
